@@ -86,7 +86,3 @@ Este projeto está sob a **MIT License**. Fique à vontade para utilizar, modifi
 ---
 
 Feito com ❤️ por [Lucas Gardini](https://github.com/Lucas-Gardini)
-
-```
-
-```
